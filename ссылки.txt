@@ -1,0 +1,9 @@
+команды для гита 
+https://habr.com/ru/company/ruvds/blog/599929/
+
+установить гит: 
+https://git-scm.com/download/
+
+создание рандомной разовой почты:
+https://temp-mail.org/ru/
+
